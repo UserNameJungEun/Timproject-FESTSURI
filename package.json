@@ -41,8 +41,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://wjdgma603.github.io/FESTSURI/",
+  "homepage": "https://github.com/UserNameJungEun/Timproject-FESTSURI.git",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
+
